@@ -21,7 +21,7 @@ Passionate about **Autonomous Systems, Robotics, and AI**
 ## ⚙️ Technical Skills
 
 **Languages**  
-C++ • Python • C • JavaScript • SQL  
+C++ • Python • C • Java • SQL  
 
 **Robotics & Autonomous Systems**  
 ROS2 (Humble) • ROS Noetic • SLAM • Localization • Path Planning • Sensor Fusion • Odometry  
