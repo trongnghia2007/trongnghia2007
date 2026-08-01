@@ -76,5 +76,5 @@ Linux • Docker • Gazebo • NVIDIA Isaac Sim • Git • GPU Acceleration �
 ## 🌐 Connect With Me
 
 - 📧 Email: hxn2465@mavs.uta.edu  
-- 💼 LinkedIn: (add link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/huy-nghia-nguyen-501010333/  
 - 💻 GitHub: https://github.com/YOUR_USERNAME  
