@@ -61,7 +61,6 @@ Linux • Docker • Gazebo • NVIDIA Isaac Sim • NVIDIA Isaac Lab • Git �
 
 ### 🦾 Perception & Cross-Platform Robotics Infrastructure
 [🔗 GitHub](https://github.com/nguyenhuytrong/assistive-robot-teleoperation)
-[▶️ Demo Video](https://www.linkedin.com/posts/huy-nghia-nguyen-501010333_utari-studentresearch-ros-ugcPost-7453244671041929216-b3OE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPUQ9EBvjfi33b4JfOQl-t2TKNw6EoUd-4)
 - Optimized real-time perception on **NVIDIA Jetson Orin Nano** via **TensorRT FP16**, cutting inference latency 30%
 - Camera–LiDAR sensor fusion localization, raising navigation success rate from 81% to **92%**
 - Containerized full **ROS2** stack with **Docker** for reproducible testing across machines
@@ -69,7 +68,7 @@ Linux • Docker • Gazebo • NVIDIA Isaac Sim • NVIDIA Isaac Lab • Git �
 ---
 
 ### ⚖️ Self-Balancing Robot (STM32 + ESP32)
-[▶️ Demo Video](https://youtu.be/Z_mbFLvszcI)
+[▶️ Demo Video](https://www.linkedin.com/posts/huy-nghia-nguyen-501010333_utari-studentresearch-ros-ugcPost-7453244671041929216-b3OE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPUQ9EBvjfi33b4JfOQl-t2TKNw6EoUd-4)
 - **PID control** + **Kalman filter** IMU sensor fusion for real-time stabilization (**±2° tilt error**)
 - Dual-microcontroller architecture (STM32 + ESP32) over UART
 - Bluetooth-based Python desktop app for remote control and live telemetry
