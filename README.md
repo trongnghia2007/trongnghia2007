@@ -44,11 +44,11 @@ Linux • Docker • Gazebo • NVIDIA Isaac Sim • NVIDIA Isaac Lab • Git �
 
 ## 🚀 Featured Projects
 
-### 🤖 Autonomous Exploration & Mapping Robot
-[🔗 GitHub](https://github.com/trongnghia2007/Autonomous-Explorer-and-Mapper-ros2-nav2)
-- ROS2 frontier-exploration node using **SLAM Toolbox + Nav2** for fully autonomous map expansion
-- Integrated with **TurtleBot3** in Gazebo, achieving **95% map coverage**
-- Custom NumPy-based frontier detection, ~**20% faster** exploration than a random-walk baseline
+### 🦾 Perception & Cross-Platform Robotics Infrastructure
+[▶️ Demo Video](https://www.linkedin.com/posts/huy-nghia-nguyen-501010333_utari-studentresearch-ros-ugcPost-7453244671041929216-b3OE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPUQ9EBvjfi33b4JfOQl-t2TKNw6EoUd-4)
+- Optimized real-time perception on **NVIDIA Jetson Orin Nano** via **TensorRT FP16**, cutting inference latency 30%
+- Camera–LiDAR sensor fusion localization, raising navigation success rate from 81% to **92%**
+- Containerized full **ROS2** stack with **Docker** for reproducible testing across machines
 
 ---
 
@@ -60,11 +60,11 @@ Linux • Docker • Gazebo • NVIDIA Isaac Sim • NVIDIA Isaac Lab • Git �
 
 ---
 
-### 🦾 Perception & Cross-Platform Robotics Infrastructure
-[▶️ Demo Video](https://www.linkedin.com/posts/huy-nghia-nguyen-501010333_utari-studentresearch-ros-ugcPost-7453244671041929216-b3OE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPUQ9EBvjfi33b4JfOQl-t2TKNw6EoUd-4)
-- Optimized real-time perception on **NVIDIA Jetson Orin Nano** via **TensorRT FP16**, cutting inference latency 30%
-- Camera–LiDAR sensor fusion localization, raising navigation success rate from 81% to **92%**
-- Containerized full **ROS2** stack with **Docker** for reproducible testing across machines
+### 🤖 Autonomous Exploration & Mapping Robot
+[🔗 GitHub](https://github.com/trongnghia2007/Autonomous-Explorer-and-Mapper-ros2-nav2)
+- ROS2 frontier-exploration node using **SLAM Toolbox + Nav2** for fully autonomous map expansion
+- Integrated with **TurtleBot3** in Gazebo, achieving **95% map coverage**
+- Custom NumPy-based frontier detection, ~**20% faster** exploration than a random-walk baseline
 
 ---
 
